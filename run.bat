@@ -1,0 +1,1 @@
+npm install -g yarn && yarn && copy .env.example .env && yarn start
